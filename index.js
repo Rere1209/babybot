@@ -1,5 +1,5 @@
 /*
-]=====> RAMLAN ID <=====[ ]=====> YT Ramlan ID <=====[ ]=====> 085559240360 <=====[
+]======>RERE BOT <=====[ ]=====> RERE BOT <=====[ ]=====> 085559240360 <=====[
 */
 // ANAK ANJING PASTI YANG ATAS DI UBAH
 // NGOTAK KONSOL
@@ -49,9 +49,9 @@ const vcard = 'BEGIN:VCARD\n'
 const ngonsol = JSON.parse(fs.readFileSync('./settings/Ramlan.json'))
 const {
     botName,
-    ownerName,
+    ownerName,RereCantik
     XteamKey,
-    ownerNumber,
+    ownerNumber,081316645360
     botPrefix,
     GrupLimitz,
     UserLimitz,
